@@ -2,20 +2,1637 @@
 <time>06:00:00 PM PDT</time>
 </channel>
 <crimes>
-	<crime>
-		<incident>Petit Larceny</incident>
-		<time>10/13/10 0927</time>
-		<location> CC-Lot </location>
-		<crime-type>NA</crime-type>
-		<narrative>Officer dispatched to take a report<span class = "E"> regarding the theft of a license plate from a parked </span>Government vehicle.</narrative>
-		<latitude>42.456227</latitude>
-		<longitude>-76.4792128</longitude>
-	</crime>
-	<crime>
-		<incident>sex</incident>
-		<latitude>42.4490957</latitude>
-		<longitude>-76.4819284</longitude>
-		<narrative><spanforcible touching alert</narrative>
-	</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>07/14/10 1030 hrs.</time>
+<location>Transportation Services</location>
+<latitude>42.441584</latitude>
+<longitude>-76.4762279</longitude>
+<narrative>Officer dispatched to take a report from a staff member that was verbally harassed by a known individual.</narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>07/26/10 1700 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student that has received harassing e-mails from a known individual.</narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>08/30/10 1417 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student that has been receiving harassing messages from a known individual. </narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>09/02/10 1520 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student that has received harassing telephone messages from an unknown individual(s). </narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>09/13/10 1659 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from an individual that has been receiving harassing e-mail from a known individual.</narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>09/20/10 0859 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a staff member that has received harassing telephone messages from a known individual.</narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>09/23/10 1606 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student that has been receiving harassing messages from an unknown individual(s). </narrative>
+</crime>
+<crime>
+<incident>Aggravated Harassment</incident>
+<time>10/18/10 1318 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student that has been receiving harassing messages from a known individual. </narrative>
+</crime>
+<crime>
+<incident>Aggravated harassment</incident>
+<time>10/20/10 2015 hrs.</time>
+<location>Mews Hall</location>
+<latitude>42.4544029</latitude>
+<longitude>-76.4765067</longitude>
+<narrative>Officer dispatched to take a report from a student that has been receiving harassing messages from a known individual. </narrative>
+</crime>
+<crime>
+<incident>Attempted Petit Larceny</incident>
+<time>10/02/10 0937 hrs.</time>
+<location>Uris Hall</location>
+<latitude>42.4471354</latitude>
+<longitude>-76.4822447</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) attempting to steal a secured Epson LCD Projector.</narrative>
+</crime>
+<crime>
+<incident>Burglary</incident>
+<time>07/30/10 1024 hrs.</time>
+<location>Baker Lab</location>
+<latitude>42.450505</latitude>
+<longitude>-76.482053</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of 60 feet of copper wire from a secured work area. </narrative>
+</crime>
+<crime>
+<incident>Burglary</incident>
+<time>08/09/10 1435 hrs.</time>
+<location>Baker Lab</location>
+<latitude>42.450505</latitude>
+<longitude>-76.482053</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of 60 foot of copper wire from a secured work area.</narrative>
+</crime>
+<crime>
+<incident>Burglary</incident>
+<time>08/22/10 1825 hrs.</time>
+<location>Bauer Hall</location>
+<latitude>42.4537363</latitude>
+<longitude>-76.4784947</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their American Eagle purse, Vera Bradley wallet, cash, personal check, debit cards, Colorado driver’s license and CUID from their unsecured room. </narrative>
+</crime>
+<crime>
+<incident>Burglary</incident>
+<time>09/22/10 1213 hrs.</time>
+<location>Hasbrouck Apartments</location>
+<latitude>42.456876</latitude>
+<longitude>-76.474141</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their Cornell gold cuff links and a Tissot watch. </narrative>
+</crime>
+<crime>
+<incident>Burglary</incident>
+<time>10/09/10 0149 hrs.</time>
+<location>109 McGraw Place</location>
+<latitude>42.450092</latitude>
+<longitude>-76.488963</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of a MacBook Pro laptop, Gucci cologne &amp; Verizon touch cell phone from their unsecured room.</narrative>
+</crime>
+<crime>
+<incident>Burglary</incident>
+<time>10/09/10 0149 hrs.</time>
+<location>109 McGraw Place</location>
+<latitude>42.450092</latitude>
+<longitude>-76.488963</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of a 3<sup>rd</sup> Generation Ipod from their unsecured room. </narrative>
+</crime>
+<crime>
+<incident>Criminal Contempt</incident>
+<time>10/05/10 2233 hrs.</time>
+<location>275 Palm Road</location>
+<latitude>42.445626</latitude>
+<longitude>-76.4590459</longitude>
+<narrative>Johnson, Richard B., Ithaca, NY was referred to Ithaca Town Court. </narrative>
+</crime>
+<crime>
+<incident>Criminal Impersonation</incident>
+<time>08/25/10 1018 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding a harassing e-mail that was received by an unknown individual. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/02/10 0812 hrs.</time>
+<location>Malott Hall Parking Area</location>
+<latitude>42.4482546</latitude>
+<longitude>-76.4802567</longitude>
+<narrative>Officer dispatched to take a report from a student regarding an unknown individual(s) breaking the windshield and driver’s side window on their parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/02/10 1345 hrs.</time>
+<location>Newman Lab Parking Area</location>
+<latitude>42.4501936</latitude>
+<longitude>-76.4803923</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding an unknown individual(s) damaging the windshield, roof and luggage rack on their parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/04/10 0830 hrs.</time>
+<location>Kinzelberg Hall</location>
+<latitude>42.450021</latitude>
+<longitude>-76.4798953</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding a second floor window broken by an unknown individual(s).</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/05/10 0734 hrs.</time>
+<location>Clark Hall</location>
+<latitude>42.4496339</latitude>
+<longitude>-76.48107</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) breaking a window on the west side of the building.</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/14/10 1233 hrs.</time>
+<location>Cascadilla Gorge Area</location>
+<latitude>42.4428919</latitude>
+<longitude>-76.4844973</longitude>
+<narrative>Officer dispatched to take a report regarding a warning sign leading into the gorge defaced by an unknown individual(s).</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/20/10 0320 hrs.</time>
+<location>Trolley Foot Bridge</location>
+<latitude>42.4431801</latitude>
+<longitude>-76.4842439</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) writing with a black marker on the informational sign at the north end of the bridge.</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/20/10 0320 hrs.</time>
+<location>Stewart Avenue Bridge</location>
+<latitude>42.4523775</latitude>
+<longitude>-76.4897975</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) writing with a black marker on the informational sign at the southeast end of the bridge. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/30/10 2203 hrs.</time>
+<location>Bebee Lake Stone Footbridge</location>
+<latitude>42.451674</latitude>
+<longitude>-76.479993</longitude>
+<narrative>Officer dispatched to take a report regarding the fence on the bridge being damaged by an unknown individual(s). </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>08/22/10 1200 hrs.</time>
+<location>Hans Bethe House</location>
+<latitude>42.4469876</latitude>
+<longitude>-76.4885697</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>09/13/10 0850 hrs.</time>
+<location>McGraw Hall</location>
+<latitude>42.4494314</latitude>
+<longitude>-76.4853621</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding an unknown individual(s) throwing a bottle through a window.</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>09/20/10 1337 hrs.</time>
+<location>Stewart and Williams Parking Area</location>
+<latitude>42.4469772</latitude>
+<longitude>-76.4894281</longitude>
+<narrative>Officer dispatched to take a report from a student regarding an unknown individual(s) breaking the windshield on their parked vehicle with an unknown object. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>09/23/10 0913 hrs.</time>
+<location>Rhodes Hall</location>
+<latitude>42.4433</latitude>
+<longitude>-76.4817025</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) dropping a Steelcase filing cabinet onto a cart that was in the Southwest staircase which caused damage to both items. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>09/22/10 1626 hrs.</time>
+<location>101 Cornell Avenue</location>
+<latitude>42.4378433</latitude>
+<longitude>-76.4775319</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding an unknown object breaking the glass in a door on the east side of the building.</narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>10/18/10 0836 hrs.</time>
+<location>Anabel Taylor Hall</location>
+<latitude>42.444961</latitude>
+<longitude>-76.4858139</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding two windows being broke by an unknown individual(s) in the 3<sup>rd</sup> floor auditorium. </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief</incident>
+<time>09/28/10 1825 hrs.</time>
+<location>Schoellkopf Cresent</location>
+<latitude>42.4441167</latitude>
+<longitude>-76.4778169</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding damage done to a Pepsi cooler by an unknown individual(s). </narrative>
+</crime>
+<crime>
+<incident>Criminal Mischief and Trespass</incident>
+<time>09/13/10 1358 hrs.</time>
+<location>722 University Avenue</location>
+<latitude>42.449615</latitude>
+<longitude>-76.489186</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) damaging the rear entrance door and then proceeded to discharge a fire extinguisher.</narrative>
+</crime>
+<crime>
+<incident>Criminal Poss. Controlled Substance</incident>
+<time>08/22/10 1300 hrs.</time>
+<location>Companion Animal Hospital</location>
+<latitude>42.446447</latitude>
+<longitude>-76.484368</longitude>
+<narrative>Officer dispatched to take a report regarding a piece of plastic containing cocaine found in the bathroom. </narrative>
+</crime>
+<crime>
+<incident>Criminal Possession of Forged Instrument</incident>
+<time>08/18/10 2210 hrs.</time>
+<location>Tower Road Parking Area</location>
+<latitude>42.447569</latitude>
+<longitude>-76.474834</longitude>
+<narrative>Two individual have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Criminal Tampering</incident>
+<time>09/11/10 0256 hrs.</time>
+<location>Hans Bethe house</location>
+<latitude>42.4469876</latitude>
+<longitude>-76.4885697</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) opening a sprinkler valve in the #1 stairwell basement.</narrative>
+</crime>
+<crime>
+<incident>Criminal Tampering</incident>
+<time>07/15/10 0540 hrs.</time>
+<location>Baker Lab Parking Area</location>
+<latitude>42.4439614</latitude>
+<longitude>-76.5018807</longitude>
+<narrative>Sergeant dispatched to take a report regarding a diesel gas cap that was found. The cap was taken off a fork lift.</narrative>
+</crime>
+<crime>
+<incident>Criminal Trespass</incident>
+<time>08/24/10 2037 hrs.</time>
+<location>Maplewood Park Apartments</location>
+<latitude>42.4411517</latitude>
+<longitude>-76.4752418</longitude>
+<narrative>Officer dispatched to take a report from a student regarding an unknown male individual entering their apartment.</narrative>
+</crime>
+<crime>
+<incident>Criminal Trespass</incident>
+<time>09/06/10 2005 hrs.</time>
+<location>Neimi Ponds</location>
+<latitude>42.465227</latitude>
+<longitude>-76.475873</longitude>
+<narrative>Officer dispatched to take a report regarding an individual trespassing on Cornell owned property. Contact was made with the individual who had permission to be on the property.</narrative>
+</crime>
+<crime>
+<incident>Criminal Trespass</incident>
+<time>09/24/10 2000 hrs.</time>
+<location>Townhouse Community Center</location>
+<latitude>42.4567556</latitude>
+<longitude>-76.4775563</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Disorderly Conduct</incident>
+<time>08/23/10 1600 hrs.</time>
+<location>Gannett Health Services</location>
+<latitude>42.446821</latitude>
+<longitude>-76.484915</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding a known male individual acting in a disorderly manner. </narrative>
+</crime>
+<crime>
+<incident>Disorderly Conduct</incident>
+<time>09/24/10 0130 hrs.</time>
+<location>Thurston Avenue Bridge</location>
+<latitude>42.4516058</latitude>
+<longitude>-76.4816247</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Disorderly Conduct and Harassment</incident>
+<time>09/18/10 1206 hrs.</time>
+<location>1 Forest Park Lane</location>
+<latitude>42.446154</latitude>
+<longitude>-76.488446</longitude>
+<narrative>An individual eligible for youthful offender status has been referred to the Ithaca City Court.</narrative>
+</crime>
+<crime>
+<incident>Exposure of A Person</incident>
+<time>09/26/10 0120 hrs.</time>
+<location>Hughes Hall Pathway</location>
+<latitude>42.4551527</latitude>
+<longitude>-76.478333</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Exposure of a Person</incident>
+<time>08/26/10 2245 hrs.</time>
+<location>Clara Dickson Hall</location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>False Personation</incident>
+<time>08/18/10 2205 hrs.</time>
+<location>Ho Plaza</location>
+<latitude>42.4468214</latitude>
+<longitude>-76.4849149</longitude>
+<narrative>Kuzara, William C., Broad Brook, CT., was referred to Ithaca City Court. </narrative>
+</crime>
+<crime>
+<incident>False Reporting and Reckless Endangerment</incident>
+<time>10/10/10 0241 hrs.</time>
+<location>2 Forest Park Lane</location>
+<latitude>42.446152</latitude>
+<longitude>-76.4884249</longitude>
+<narrative>Two individuals have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Falsely Reporting an Incident</incident>
+<time>08/06/10 1437 hrs.</time>
+<location>Hasbrouck Community Center</location>
+<latitude>42.4563276</latitude>
+<longitude>-76.4718973</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) maliciously activating a fire alarm pull box.</narrative>
+</crime>
+<crime>
+<incident>Falsifying Business Records</incident>
+<time>10/14/10 0800 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Sr. Investigator dispatched to take a report regarding possible false information provided on a job application.</narrative>
+</crime>
+<crime>
+<incident>Fraudulent Accosting</incident>
+<time>08/05/10 1245 hrs.</time>
+<location>Robert Purcell Community Center</location>
+<latitude>42.456363</latitude>
+<longitude>-76.477718</longitude>
+<narrative>Officer dispatched to take a report from a student that was asked for money by an unknown male individual so that he could get to New York City.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>08/11/10 2000 hrs.</time>
+<location>Corson Hall</location>
+<latitude>42.4472625</latitude>
+<longitude>-76.4782688</longitude>
+<narrative>Officer dispatched to take a report from an individual regarding the theft of their wallet, which contained 3 bankcards, a NYS driver’s license and $24.00 cash.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>07/18/10 1120 hrs.</time>
+<location>Carl Becker House</location>
+<latitude>42.4482699</latitude>
+<longitude>-76.4895185</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of a Dell Latitude D600 laptop computer.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>08/21/10 1000 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their wallet, cash, Canadian passport, Canadian driver’s license, bankcards and a gift card while they traveled on a Grey Hound bus.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>08/31/10 1243 hrs.</time>
+<location>George Jameson Hall</location>
+<latitude>42.4556641</latitude>
+<longitude>-76.4782236</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their wallet, cash, NYS driver’s license, CUID, key and bankcards from their unsecured room.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>08/24/10 1630 hrs.</time>
+<location>Helen Newman Hall</location>
+<latitude>42.4521016</latitude>
+<longitude>-76.4812176</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured CUID.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/02/10 2130 hrs.</time>
+<location>Noyes Community Center</location>
+<latitude>42.4464702</latitude>
+<longitude>-76.4880276</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured CUID. </narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/02/10 1845 hrs.</time>
+<location>Fall Creek Drive</location>
+<latitude>42.4527895</latitude>
+<longitude>-76.4867776</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured purse, cash, bankcard, Samsung cell phone, CUID and OK driver’s license.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/16/10 1417 hrs.</time>
+<location>International Living Center Laundry Room</location>
+<latitude>42.455745</latitude>
+<longitude>-76.476066</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured CUID, bankcard and keys,</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/21/10 2015 hrs.</time>
+<location>Olin Library</location>
+<latitude>42.447766</latitude>
+<longitude>-76.484633</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured MacBook laptop, Ipod and Nikon digital camera. All items were recovered intact.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/19/10 1425 hrs.</time>
+<location>Kroch Library</location>
+<latitude>42.4483399</latitude>
+<longitude>-76.483324</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Imac laptop computer. The computer was later recovered intact. </narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/23/10 1405 hrs.</time>
+<location>Cornell Orchards</location>
+<latitude>42.4434198</latitude>
+<longitude>-76.4657077</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of an unsecured wallet. </narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>09/25/10 1135 hrs.</time>
+<location>Alice Cook House Dining</location>
+<latitude>42.448884</latitude>
+<longitude>-76.4896088</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Nikon D5000 digital camera, Targus camera case, exterior lens, lens filter, and memory cards.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>10/01/10 0730 hrs.</time>
+<location>6 South Avenue</location>
+<latitude>42.445148</latitude>
+<longitude>-76.487169</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Northface jacket, sweater, bankcards, cash and keys.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>10/04/10 1137 hrs.</time>
+<location>Uris Library</location>
+<latitude>42.447623</latitude>
+<longitude>-76.485325</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their wallet and CUID from their unsecured backpack.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>10/06/10 0948 hrs.</time>
+<location>MVR</location>
+<latitude>42.449903</latitude>
+<longitude>-76.479199</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of a secured Dell Latitude laptop and E-port Doc.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>10/07/10 1934 hrs.</time>
+<location>Uris Library</location>
+<latitude>42.447623</latitude>
+<longitude>-76.485325</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured wallet, Social Security card, passport, bankcards, CUID, Florida driver’s license, personal checks, and a money order.</narrative>
+</crime>
+<crime>
+<incident>Grand Larceny</incident>
+<time>10/11/10 1953 hrs.</time>
+<location>Oxley Equestrian Center</location>
+<latitude>42.4338088</latitude>
+<longitude>-76.4641713</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of their parked 2007 Sierra pickup truck. The truck was later recovered intact. </narrative>
+</crime>
+<crime>
+<incident>Harassment</incident>
+<time>09/23/10 2318 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student that was verbally and physically harassed by a known individual. </narrative>
+</crime>
+<crime>
+<incident>Harassment</incident>
+<time>09/26/10 1312 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Gu, Jaenam was referred to Ithaca Town Court. </narrative>
+</crime>
+<crime>
+<incident>Harassment</incident>
+<time>10/13/10 2137 hrs.</time>
+<location>Boyce Thompson Institute</location>
+<latitude>42.4471050</latitude>
+<longitude>-76.467462</longitude>
+<narrative>Chen, Naichong. Ithaca, NY was referred to Ithaca Town Court.</narrative>
+</crime>
+<crime>
+<incident>Harassment and Unlawful Imprisonment</incident>
+<time>09/01/10 1124</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a staff member that was harassed by a known individual. </narrative>
+</crime>
+<crime>
+<incident>Identity Theft</incident>
+<time>09/03/10 2133 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student regarding an unknown individual(s) making unauthorized charges on their bankcard. </narrative>
+</crime>
+<crime>
+<incident>Identity Theft</incident>
+<time>10/18/10 1142 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report from a student regarding an unknown individual(s) making unauthorized on-line transactions with their bankcard. </narrative>
+</crime>
+<crime>
+<incident>Illegal Dumping</incident>
+<time>10/06/10 0730 hrs.</time>
+<location>Morrison Hall</location>
+<latitude>42.4465032</latitude>
+<longitude>-76.4694129</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding an unknown individual(s) placing household garbage in a university dumpster. </narrative>
+</crime>
+<crime>
+<incident>Illegal Dumping</incident>
+<time>10/07/10 0900 hrs.</time>
+<location>Lab of Ornithology Dumpster</location>
+<latitude>42.4798062</latitude>
+<longitude>-76.4510666</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding an unknown individual(s) placing household garbage in a Cornell dumpster.</narrative>
+</crime>
+<crime>
+<incident>Making Graffiti</incident>
+<time>08/03/10 1618 hrs.</time>
+<location>Risley Hall</location>
+<latitude>42.4531781</latitude>
+<longitude>-76.4820188</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) spray painting graffiti along the metal fire escape stairwell.</narrative>
+</crime>
+<crime>
+<incident>Making Graffiti</incident>
+<time>08/23/10 1010 hrs.</time>
+<location>Trolley Foot Bridge</location>
+<latitude>42.4431801</latitude>
+<longitude>-76.4842439</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) writing with a black marker on a west side railing. </narrative>
+</crime>
+<crime>
+<incident>Making Graffiti</incident>
+<time>08/20/10 0925 hrs.</time>
+<location>Suspension Bridge</location>
+<latitude>42.4520365</latitude>
+<longitude>-76.4860864</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual painting graffiti on an I-beam. </narrative>
+</crime>
+<crime>
+<incident>Making Graffiti</incident>
+<time>09/12/10 1255 hrs.</time>
+<location>Stewart Avenue Bridge</location>
+<latitude>42.4523775</latitude>
+<longitude>-76.4897975</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) spray painting the fence and supports.</narrative>
+</crime>
+<crime>
+<incident>Making Graffiti</incident>
+<time>10/03/10 0938 hrs.</time>
+<location>Stewart Avenue Bridge</location>
+<latitude>42.4523775</latitude>
+<longitude>-76.4897975</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) spray painting the fencing on both side of the road. </narrative>
+</crime>
+<crime>
+<incident>Making Graffiti</incident>
+<time>10/19/10 1830 hrs.</time>
+<location>Rockefeller Hall</location>
+<latitude>42.4490957</latitude>
+<longitude>-76.4819284</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding an unknown individual(s) spray painting graffiti on the west side of the building. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>07/30/10 1615 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/03/10 1300 hrs.</time>
+<location>Balch Hall Bike Rack</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their Trek bicycle.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/07/10 1802 hrs.</time>
+<location>Clara Dickson Hall</location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their Apple Iphone.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/08/10 1630 hrs.</time>
+<location>Hasbrouck Apartments Parking Area</location>
+<latitude>42.456876</latitude>
+<longitude>-76.474141</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of the driver’s side mirror from their parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/09/10 1445 hrs.</time>
+<location>Balch Hall</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Apple Iphone.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/12/10 0039 hrs.</time>
+<location>Kimball Hall</location>
+<latitude>42.4439795</latitude>
+<longitude>-76.4832838</longitude>
+<narrative>Officer dispatched to take a report from an individual regarding the theft of their secured Fuji 21 speed bicycle and cable lock.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/13/10 1700 hrs.</time>
+<location>Risley Hall</location>
+<latitude>42.4531781</latitude>
+<longitude>-76.4820188</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of an unsecured human upper torso statue. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>07/08/10 1253 hrs.</time>
+<location>726 University Avenue</location>
+<latitude>42.449562</latitude>
+<longitude>-76.488786</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of an unsecured poster and trophy.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>07/27/10 1554 hrs.</time>
+<location>Olin Library</location>
+<latitude>42.447766</latitude>
+<longitude>-76.484633</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of cash from their unsecured backpack.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/20/10 1530 hrs.</time>
+<location>A-lot Parking Area</location>
+<latitude>42.4580549</latitude>
+<longitude>-76.4754634</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of a Kenneth Cole briefcase, personal checkbook and bill statements from their unsecured parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/23/10 1145 hrs.</time>
+<location>Clark Hall</location>
+<latitude>42.4496339</latitude>
+<longitude>-76.48107</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of a tin of loose coins from their unsecured desk. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/23/10 1930 hrs.</time>
+<location>122 McGraw Place</location>
+<latitude>42.451353</latitude>
+<longitude>-76.490369</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of various meat items from the refrigerator.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/24/10 2150 hrs.</time>
+<location>A-Lot Parking</location>
+<latitude>42.458389</latitude>
+<longitude>-76.476431</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/24/10 2030 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/25/10 1330 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>Two individuals have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/27/10 2059 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>07/28/10 1741 hrs.</time>
+<location>Balch Hall Bike Rack</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of a Trek 21FX mountain bicycle and a combination lock.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>08/30/10 1514 hrs.</time>
+<location>Clara Dickson Hall Bike Rack</location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Trek mountain bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/01/10 1225 hrs.</time>
+<location>Phillips Hall</location>
+<latitude>42.4445499</latitude>
+<longitude>-76.482064</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Gary Fisher mountain bicycle.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/01/10 1430 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/02/10 1745 hrs.</time>
+<location>CISER</location>
+<latitude>42.4393179</latitude>
+<longitude>-76.4656055</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of a Danby portable air conditioner.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/08/10 2115 hrs.</time>
+<location>Clara Dickson Hall </location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their Huffy bicycle that was secured to a post near the bike rack. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/08/10 2200 hrs.</time>
+<location>1 Forest Park Lane</location>
+<latitude>42.446154</latitude>
+<longitude>-76.488446</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured purse, Blackberry cell phone, cash, and keys.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/09/10 1125 hrs.</time>
+<location>Jameson Hall Bike Rack</location>
+<latitude>42.4556641</latitude>
+<longitude>-76.4782236</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Nevada mountain bicycle.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/09/10 1635 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/02/10 1130 hrs.</time>
+<location>Balch Hall</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Power Frame mountain bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/07/10 2104 hrs.</time>
+<location>Noyes Community Center</location>
+<latitude>42.4464702</latitude>
+<longitude>-76.4880276</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Kipling backpack, Nokia cell phone, wallet and CUID.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/09/10 1715 hrs.</time>
+<location>Blair Barn</location>
+<latitude>42.4430018</latitude>
+<longitude>-76.4688255</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of two unsecured Husqvarna chain saws.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/11/10 1352 hrs.</time>
+<location>2 Forest Park Lane Parking Area</location>
+<latitude>42.446152</latitude>
+<longitude>-76.4884249</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of the rear license plate from their parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/11/10 1930 hrs.</time>
+<location>Flora Rose House Parking Area</location>
+<latitude>42.447805</latitude>
+<longitude>-76.488662</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of the rear license plate from their parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/14/10 1400 hrs.</time>
+<location>Bartels Hall</location>
+<latitude>42.4457533</latitude>
+<longitude>-76.4763711</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of Sony DVD Burner.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/07/10 2221 hrs.</time>
+<location>Olin and Stimson Hall Bike Rack</location>
+<latitude>42.4477607</latitude>
+<longitude>-76.4833742</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Rand mountain bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/16/10 1016 hrs.</time>
+<location>Risley Hall Bike Rack</location>
+<latitude>42.4531781</latitude>
+<longitude>-76.4820188</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Magna Harotail bicycle and cable lock.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/16/10 1635 hrs.</time>
+<location>Balch Hall Bike Rack</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Diamondback mountain bicycle.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/17/10 0942 hrs.</time>
+<location>Hughes Hall Loading Dock Area</location>
+<latitude>42.4437548</latitude>
+<longitude>-76.4864464</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of a wooden Hughes Dining sign.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/21/10 1123 hrs.</time>
+<location>Schwartz PAC Bike Rack</location>
+<latitude>42.442176</latitude>
+<longitude>-76.484563</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Specialized Hybrid bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/21/10 1657 hrs.</time>
+<location>Thurston Hall Bike Rack</location>
+<latitude>42.4439582</latitude>
+<longitude>-76.4837356</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured mountain bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/20/10 1140 hrs.</time>
+<location>Day Hall Bike Rack</location>
+<latitude>42.447243</latitude>
+<longitude>-76.483362</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Schwinn bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/20/10 1421 hrs.</time>
+<location>Risley Hall</location>
+<latitude>42.4531781</latitude>
+<longitude>-76.4820188</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of the chimes and pendulum from a grandfather clock. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/29/10 1115 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/29/10 2045 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>09/30/10 1612 hrs.</time>
+<location>O-Lot Parking Area</location>
+<latitude>42.445121</latitude>
+<longitude>-76.466217</longitude>
+<narrative>Officer dispatched to take a report from an individual regarding the theft of their Canon powershot camera from their unsecured vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/03/10 1334 hrs.</time>
+<location>Stewart and Williams Parking Area</location>
+<latitude>42.4469772</latitude>
+<longitude>-76.4894281</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of the rear license plate from their parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/04/10 1550 hrs.</time>
+<location>Risley Hall Bike Rack</location>
+<latitude>42.4531781</latitude>
+<longitude>-76.4820188</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their unsecured Avalanche GT mountain bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/05/10 1330 hrs.</time>
+<location>Carl Becker House Exterior</location>
+<latitude>42.4482699</latitude>
+<longitude>-76.4895185</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of a directional aluminum sign.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/08/10 1145 hrs.</time>
+<location>201 Maple Avenue</location>
+<latitude>42.439153</latitude>
+<longitude>-76.472549</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of the front licensed plate from a Cornell owned parked vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/08/10 1630 hrs.</time>
+<location>Goldwin Smith Hall Bike Rack</location>
+<latitude>42.449080</latitude>
+<longitude>-76.483555</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of their secured Jamis Commuter bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/14/10 1351 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/08/10 1659 hrs.</time>
+<location>Hughes Hall</location>
+<latitude>42.4551527</latitude>
+<longitude>-76.478333</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of miscellaneous food products from the community kitchen. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/19/10 0957 hrs.</time>
+<location>Sage Hall</location>
+<latitude>42.4459078</latitude>
+<longitude>-76.483329</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding the theft of an unsecured Dell Optiplex computer.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny</incident>
+<time>10/21/10 0927 hrs.</time>
+<location>CC-Lot</location>
+<latitude>42.456227</latitude>
+<longitude>-76.4792128</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of a license plate from a parked Government vehicle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny and Burglary</incident>
+<time>10/08/10 1458 hrs.</time>
+<location>Hughes Hall</location>
+<latitude>42.4551527</latitude>
+<longitude>-76.478333</longitude>
+<narrative>Officer dispatched to take a report from a student regarding the theft of an Ipod Touch from their secured room.</narrative>
+</crime>
+<crime>
+<incident>Petit Larceny and Criminal Mischief</incident>
+<time>08/08/10 0853 hrs.</time>
+<location>Carl Becker House Exterior</location>
+<latitude>42.4482699</latitude>
+<longitude>-76.4895185</longitude>
+<narrative>Officer dispatched to take a report regarding the theft of a Shogun mountain bicycle. The bicycle was secured to a wooden bench that was broken to remove the bicycle. </narrative>
+</crime>
+<crime>
+<incident>Petit Larceny and Criminal poss. Controlled Substance</incident>
+<time>09/04/10 1354 hrs.</time>
+<location>The Cornell Store</location>
+<latitude>42.4467917</latitude>
+<longitude>-76.4844133</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Public Lewdness and Criminal Possession of a Forged Instrument</incident>
+<time>08/27/10 2245 hrs.</time>
+<location>Mary Ann Wood Drive Parking Area</location>
+<latitude>42.445501</latitude>
+<longitude>-76.489531</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Public Urination</incident>
+<time>09/04/10 2330 hrs.</time>
+<location>122 McGraw place</location>
+<latitude>42.451353</latitude>
+<longitude>-76.490369</longitude>
+<narrative>Two individuals have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Rape</incident>
+<time>10/03/10 1254 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report regarding a possible rape by a known individual. </narrative>
+</crime>
+<crime>
+<incident>Scheme to Defraud</incident>
+<time>09/03/10 2003 hrs.</time>
+<location>Robert Purcell Community Center</location>
+<latitude>42.456363</latitude>
+<longitude>-76.477718</longitude>
+<narrative>Officer dispatched to take a report from a student that was approached by a male individual that was requesting cash for a bus ticket. </narrative>
+</crime>
+<crime>
+<incident>Sexual Abuse</incident>
+<time>10/01/10 2355 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report regarding sexual abuse.</narrative>
+</crime>
+<crime>
+<incident>Stalking</incident>
+<time>08/30/10 1130 hrs.</time>
+<location>Roberts Hall</location>
+<latitude>42.4486419</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Chen, Jun, Oakland, CA was referred to Ithaca City Court.</narrative>
+</crime>
+<crime>
+<incident>Stalking</incident>
+<time>08/18/10 1400 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Trespass</incident>
+<time>08/06/10 0809 hrs.</time>
+<location>Agronomy Storage Shed</location>
+<latitude>42.4499270</latitude>
+<longitude>-76.463685</longitude>
+<narrative>Officer dispatched to take a report regarding an unknown individual(s) trespassing in a Cornell owned shed. </narrative>
+</crime>
+<crime>
+<incident>Trespass</incident>
+<time>08/06/10 1542 hrs.</time>
+<location>Balch Hall</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>Crawford, Dwayne was referred to Ithaca City Court.</narrative>
+</crime>
+<crime>
+<incident>Trespass</incident>
+<time>08/17/10 1536 hrs.</time>
+<location>Ho Plaza</location>
+<latitude>42.4468214</latitude>
+<longitude>-76.4849149</longitude>
+<narrative>Carver, Francis E., Trumansburg, NY was referred to Ithaca City Court. </narrative>
+</crime>
+<crime>
+<incident>Trespass</incident>
+<time>10/18/10 1100 hrs.</time>
+<location>Caldwell Hall</location>
+<latitude>42.4491907</latitude>
+<longitude>-76.4783139</longitude>
+<narrative>Officer dispatched to take a report from a staff member regarding a known individual trespassing in the building. </narrative>
+</crime>
+<crime>
+<incident>Trespass</incident>
+<time>08/14/10 2050 hrs.</time>
+<location>Maplewood Park Apartments Parking Area</location>
+<latitude>42.4411517</latitude>
+<longitude>-76.4752418</longitude>
+<narrative>Officer dispatched to take a report regarding an individual going through a garbage dumpster. The individual was warned and issued a Persona-non-grata.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/20/10 0445 hrs.</time>
+<location>Gothic’s Way</location>
+<latitude>42.449016</latitude>
+<longitude>-76.489177</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/22/10 0225 hrs.</time>
+<location>Balch Hall</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/22/10 0347 hrs.</time>
+<location>NC#6</location>
+<latitude>42.4562982</latitude>
+<longitude>-76.4759645</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/24/10 0104 hrs.</time>
+<location>Balch Hall Exterior</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/24/10 0133 hrs.</time>
+<location>Clara Dickson Hall</location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/24/10 0301 hrs.</time>
+<location>NC#5</location>
+<latitude>42.456082</latitude>
+<longitude>-76.476731</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/28/10 0242 hrs.</time>
+<location>122 McGraw Place</location>
+<latitude>42.451353</latitude>
+<longitude>-76.490369</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/29/10 0132 hrs.</time>
+<location>Balch Hall Courtyard</location>
+<latitude>42.453166</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/29/10 0144 hrs.</time>
+<location>Ho Plaza</location>
+<latitude>42.4468214</latitude>
+<longitude>-76.4849149</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/29/10 0449 hrs.</time>
+<location>Ho Plaza</location>
+<latitude>42.4468214</latitude>
+<longitude>-76.4849149</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>08/28/10 2100 hrs.</time>
+<location>Ho Plaza</location>
+<latitude>42.4468214</latitude>
+<longitude>-76.4849149</longitude>
+<narrative>Officer dispatched to take a report regarding an unaffiliated individual in need of medical attention. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/03/10 0230 hrs.</time>
+<location>Robert Purcell Community Center</location>
+<latitude>42.456363</latitude>
+<longitude>-76.477718</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/04/10 0050 hrs.</time>
+<location>Library Slope</location>
+<latitude>42.4486024</latitude>
+<longitude>-76.4863108</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/04/10 0500 hrs.</time>
+<location>Low Rise #7</location>
+<latitude>42.4561765</latitude>
+<longitude>-76.4752972</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/05/10 0230 hrs.</time>
+<location>228 Wait Avenue</location>
+<latitude>42.454866</latitude>
+<longitude>-76.482011</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/11/10 0230 hrs.</time>
+<location>Kay Hall</location>
+<latitude>42.4541453</latitude>
+<longitude>-76.4779751</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/18/10 0025 hrs.</time>
+<location>Mary Donlon Hall</location>
+<latitude>42.454996</latitude>
+<longitude>-76.4776814</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/18/10 0033 hrs.</time>
+<location>104 Mary Ann Wood Drive</location>
+<latitude>42.4457986</latitude>
+<longitude>-76.4887582</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/18/10 0235 hrs.</time>
+<location>702 University Avenue</location>
+<latitude>42.449648</latitude>
+<longitude>-76.489923</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/19/10 0236 hrs.</time>
+<location>Arts Quad</location>
+<latitude>42.449396</latitude>
+<longitude>-76.484284</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 0648 hrs.</time>
+<location>120 Mary Ann Wood Drive</location>
+<latitude>42.4457986</latitude>
+<longitude>-76.4887582</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1025 hrs.</time>
+<location>Bartels Metered Parking Area</location>
+<latitude>42.4457533</latitude>
+<longitude>-76.4763711</longitude>
+<narrative>Two individual have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1030 hrs.</time>
+<location>2 Forest Park Lane</location>
+<latitude>42.446152</latitude>
+<longitude>-76.4884249</longitude>
+<narrative>Two individuals have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1110 hrs.</time>
+<location>Cresent Parking Area</location>
+<latitude>42.445082</latitude>
+<longitude>-76.476721</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1110 hrs.</time>
+<location>Cresent Parking Area</location>
+<latitude>42.445082</latitude>
+<longitude>-76.476721</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1156 hrs.</time>
+<location>Cresent Parking Area</location>
+<latitude>42.445082</latitude>
+<longitude>-76.476721</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/26/10 1820 hrs.</time>
+<location>Cresent Parking Area</location>
+<latitude>42.445082</latitude>
+<longitude>-76.476721</longitude>
+<narrative>Speidel, Tyghe R., Ithaca, NY was referred to Ithaca City Court.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1235 hrs.</time>
+<location>Cresent Parking Area</location>
+<latitude>42.445082</latitude>
+<longitude>-76.476721</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 2315 hrs.</time>
+<location>Mary Donlon Hall</location>
+<latitude>42.454996</latitude>
+<longitude>-76.4776814</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/26/10 0244 hrs.</time>
+<location>Alice Cook House</location>
+<latitude>42.448884</latitude>
+<longitude>-76.4896088</longitude>
+<narrative>An individual has been referred to the Judicial Administrator.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/22/10 2040 hrs.</time>
+<location>Forest Park Lane</location>
+<latitude>42.446152</latitude>
+<longitude>-76.4884249</longitude>
+<narrative>An individual eligible for youthful offender status was referred to Ithaca City Court. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 2344 hrs.</time>
+<location>Hans Bethe House</location>
+<latitude>42.4469876</latitude>
+<longitude>-76.4885697</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>10/01/10 1950 hrs.</time>
+<location>Schoellkopf Stadium</location>
+<latitude>42.444086</latitude>
+<longitude>-76.478656</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>10/03/10 0148 hrs.</time>
+<location>Sheldon Court</location>
+<latitude>42.442203</latitude>
+<longitude>-76.4854524</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/25/10 1211 hrs.</time>
+<location>Crescent Parking Area</location>
+<latitude>42.445082</latitude>
+<longitude>-76.476721</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>09/26/10 0217 hrs.</time>
+<location>Ujamaa Hall</location>
+<latitude>42.4554801</latitude>
+<longitude>-76.4766874</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>10/08/10 0003 hrs.</time>
+<location>Clara Dickson Hall</location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>10/08/10 0043 hrs.</time>
+<location>Mews Hall</location>
+<latitude>42.4544029</latitude>
+<longitude>-76.4765067</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>10/10/10 0055 hrs.</time>
+<location>109 McGraw Place</location>
+<latitude>42.450092</latitude>
+<longitude>-76.488963</longitude>
+<narrative>An individual eligible for youthful offender status was referred to Ithaca City Court. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol</incident>
+<time>10/08/10 0025 hrs.</time>
+<location>Clara Dickson Hall</location>
+<latitude>42.4548247</latitude>
+<longitude>-76.4793983</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol </incident>
+<time>08/28/10 0015 hrs.</time>
+<location>Carl Becker House</location>
+<latitude>42.4482699</latitude>
+<longitude>-76.4895185</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol </incident>
+<time>10/07/10 2334 hrs.</time>
+<location>10 Sisson Place</location>
+<latitude>42.4551513</latitude>
+<longitude>-76.4805841</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol and Reckless Endangerment</incident>
+<time>08/27/10 0232 hrs.</time>
+<location>Sheldon Court</location>
+<latitude>42.442203</latitude>
+<longitude>-76.4854524</longitude>
+<narrative>Three individuals have been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol, False Personation and Criminal Poss. Forged Instrument</incident>
+<time>08/28/10 2057 hrs.</time>
+<location>Arts Quad</location>
+<latitude>42.449396</latitude>
+<longitude>-76.484284</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Alcohol, Trespass and Disorderly Conduct</incident>
+<time>09/04/10 0110 hrs.</time>
+<location>Comstock House</location>
+<latitude>42.4463367</latitude>
+<longitude>-76.4793531</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>08/23/10 2140 hrs.</time>
+<location>Mary Donlon Hall</location>
+<latitude>42.454996</latitude>
+<longitude>-76.4776814</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>08/24/10 1110 hrs.</time>
+<location>Mary Donlon Hall</location>
+<latitude>42.454996</latitude>
+<longitude>-76.4776814</longitude>
+<narrative>Officer dispatched to take a report regarding a small bag of marihuana that was found in the hallway.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>08/28/10 1215 hrs.</time>
+<location>A-Lot Parking Area</location>
+<latitude>42.4580549</latitude>
+<longitude>-76.4754634</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>09/04/10 1020 hrs.</time>
+<location>A-Lot Parking Area</location>
+<latitude>42.4580549</latitude>
+<longitude>-76.4754634</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>09/05/10 1440 hrs.</time>
+<location>A-Lot Parking Area</location>
+<latitude>42.4580549</latitude>
+<longitude>-76.4754634</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>09/05/10 1500 hrs.</time>
+<location>A-Lot Parking Area</location>
+<latitude>42.4580549</latitude>
+<longitude>-76.4754634</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>09/18/10 2120 hrs.</time>
+<location>Appel Commons</location>
+<latitude>42.4535518</latitude>
+<longitude>-76.4760097</longitude>
+<narrative>An individual eligible for youthful offender status was referred to Ithaca City Court.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>09/26/10 0120 hrs.</time>
+<location>Mews Hall Courtyard</location>
+<latitude>42.4544029</latitude>
+<longitude>-76.4765067</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>10/17/10 2008 hrs.</time>
+<location>Barton Hall</location>
+<latitude>42.445628</latitude>
+<longitude>-76.480454</longitude>
+<narrative>Officer dispatched to take a report regarding a youthful offender in possession of marihuana. The individual was turned over to their parent.</narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>10/19/10 0101 hrs.</time>
+<location>709 University Avenue</location>
+<latitude>42.4500821</latitude>
+<longitude>-76.4872102</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
+<crime>
+<incident>Unlawful Possession of Marihuana</incident>
+<time>10/21/10 2245 hrs.</time>
+<location>Risley Hall</location>
+<latitude>42.4531781</latitude>
+<longitude>-76.4820188</longitude>
+<narrative>An individual has been referred to the Judicial Administrator. </narrative>
+</crime>
 </crimes>
 </root>
