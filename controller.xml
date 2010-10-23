@@ -14,9 +14,10 @@
       </urls>
     </select>
   </bindings>
+
+</table>
   <request>
 	<select>
 		<key name="incident" required="true" type:"xs:string"/>
 	</select>
   </request>
-</table>
