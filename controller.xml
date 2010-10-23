@@ -13,7 +13,9 @@
         <url>http://github.com/gh269/cornellDataTable/raw/master/test.xml</url>
       </urls>
 
+		<inputs>
 		<key name="incident" required="true" type="xs:string"/>
+		</inputs>
 	</select>
  
   </bindings>
