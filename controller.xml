@@ -6,7 +6,13 @@
     <description>Uses the BART ETA feed.</description>
     <sampleQuery>SELECT * FROM {table} WHERE abbr="12th"</sampleQuery>
   </meta>
-
+  <results>
+  <request>
+	<select>
+		<key name="incident" required="true" type="xs:string"/>
+	</select>
+  </request>
+  </results>
   <bindings>
     <select itemPath="root.crimes" produces="XML">
       <urls>
@@ -16,8 +22,3 @@
   </bindings>
 
 </table>
-  <request>
-	<select>
-		<key name="incident" required="true" type:"xs:string"/>
-	</select>
-  </request>
