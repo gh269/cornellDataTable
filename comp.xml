@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+    yahoo:count="1" yahoo:created="2010-10-23T04:23:25Z" yahoo:lang="en-US">
+    <diagnostics>
+        <publiclyCallable>true</publiclyCallable>
+        <url execution-time="2" proxy="DEFAULT"><![CDATA[http://www.datatables.org/yelp/yelp.review.search.xml]]></url>
+        <warning>Required key 'num_biz_requested' should not contain a default, ignoring the value of default</warning>
+        <warning>Required key 'num_biz_requested' should not contain a default, ignoring the value of default</warning>
+        <warning>Required key 'num_biz_requested' should not contain a default, ignoring the value of default</warning>
+        <user-time>24</user-time>
+        <service-time>2</service-time>
+        <build-version>9597</build-version>
+    </diagnostics> 
+  <bindings>
+    <select itemPath="root.crimes" produces="XML">
+      <urls>
+        <url>http://github.com/gh269/cornellDataTable/raw/master/test.xml</url>
+      </urls>
+    </select>
+  </bindings>
+    <results>
+            <meta>
+                <author>Josh Gordineer</author>
+                <description>Yelp Review Search API</description>
+                <documentationURL>http://www.yelp.com/developers/documentation/search_api</documentationURL>
+                <sampleQuery>select * from yelp.review.search where term='pizza' and location='sunnyvale, ca' and ywsid='6L0Lc-yn1OKMkCKeXLD4lg'</sampleQuery>
+            </meta>
+            <request>
+                <select>
+                    <key name="incident" required="true" type="xs:string"/>
+                </select>
+
+            </request>
+    </results>
+</query>
+ 
