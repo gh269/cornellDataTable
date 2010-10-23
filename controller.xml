@@ -14,7 +14,7 @@
       </urls>
 
 		<inputs>
-			<key id="incident" required="true" type="xs:string"/>
+			<key id="incident" required="true" paramType="path" type="xs:string"/>
 		</inputs>
 	</select>
  
