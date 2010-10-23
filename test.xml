@@ -18,7 +18,7 @@
 <latitude>42.446254</latitude>
 <longitude>-76.488546</longitude>
 <narrative>An individual eligible for youthful offender status has been referred to the Ithaca City Court.</narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Unlawful Possession of Alcohol </incident>
@@ -27,7 +27,7 @@
 <latitude>42.4551513</latitude>
 <longitude>-76.4805841</longitude>
 <narrative>An individual has been referred to the Judicial Administrator. </narrative>
-<crimetype>Alcohol</crimetype>
+<crimetype>a</crimetype>
 </crime>
 <crime>
 <incident>Criminal Mischief</incident>
@@ -513,7 +513,7 @@
 <latitude>42.445728</latitude>
 <longitude>-76.481454</longitude>
 <narrative>Officer dispatched to take a report from a staff member that was harassed by a known individual. </narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Aggravated Harassment</incident>
@@ -549,7 +549,7 @@
 <latitude>42.445928</latitude>
 <longitude>-76.483454</longitude>
 <narrative>Officer dispatched to take a report from a student that was verbally and physically harassed by a known individual. </narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Harassment</incident>
@@ -558,7 +558,7 @@
 <latitude>42.445728</latitude>
 <longitude>-76.480554</longitude>
 <narrative>Gu, Jaenam was referred to Ithaca Town Court. </narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Aggravated Harassment</incident>
@@ -666,7 +666,7 @@
 <latitude>42.4471050</latitude>
 <longitude>-76.467462</longitude>
 <narrative>Chen, Naichong. Ithaca, NY was referred to Ithaca Town Court.</narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Petit Larceny</incident>
@@ -711,7 +711,7 @@
 <latitude>42.4483699</latitude>
 <longitude>-76.4896185</longitude>
 <narrative>An individual has been referred to the Judicial Administrator. </narrative>
-<crimetype>Alcohol</crimetype>
+<crimetype>a</crimetype>
 </crime>
 <crime>
 <incident>Petit Larceny and Criminal Mischief</incident>
@@ -765,7 +765,7 @@
 <latitude>42.4547247</latitude>
 <longitude>-76.4794983</longitude>
 <narrative>An individual has been referred to the Judicial Administrator.</narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Unlawful Possession of Alcohol</incident>
@@ -1314,7 +1314,7 @@
 <latitude>42.4545029</latitude>
 <longitude>-76.4765067</longitude>
 <narrative>Officer dispatched to take a report from a student that has been receiving harassing messages from a known individual. </narrative>
-<crimetype>Harassment</crimetype>
+<crimetype>h</crimetype>
 </crime>
 <crime>
 <incident>Unlawful Possession of Marihuana</incident>
