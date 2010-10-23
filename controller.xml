@@ -13,12 +13,12 @@
         <url>http://github.com/gh269/cornellDataTable/raw/master/test.xml</url>
       </urls>
     </select>
-  </bindings>
-  <results>
+ <results>
   <request>
 	<select>
 		<key name="incident" required="true" type="xs:string"/>
 	</select>
   </request>
   </results>
+  </bindings>
 </table>
