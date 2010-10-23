@@ -11,5 +11,10 @@
 		<latitude>42.456227</latitude>
 		<longitude>-76.4792128</longitude>
 	</crime>
+	<crime>
+		<incident>sex</incident>
+		<latitude>42.4490957</latitude>
+		<longitude>-76.4819284</longitude>
+	</crime>
 </crimes>
 </root>
