@@ -7,7 +7,7 @@
 		<time>10/13/10 0927</time>
 		<location> CC-Lot </location>
 		<crime-type>NA</crime-type>
-		<narrative>Officer dispatched to take a report regarding the theft of a license plate from a parked Government vehicle.</narrative>
+		<narrative>Officer dispatched to take a report<span class = "E"> regarding the theft of a license plate from a parked </span>Government vehicle.</narrative>
 		<latitude>42.456227</latitude>
 		<longitude>-76.4792128</longitude>
 	</crime>
@@ -15,7 +15,7 @@
 		<incident>sex</incident>
 		<latitude>42.4490957</latitude>
 		<longitude>-76.4819284</longitude>
-		<narrative>forcible touching alert</narrative>
+		<narrative><spanforcible touching alert</narrative>
 	</crime>
 </crimes>
 </root>
