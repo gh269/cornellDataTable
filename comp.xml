@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
-    yahoo:count="1" yahoo:created="2010-10-23T04:23:25Z" yahoo:lang="en-US">
+<query xmlns:yahoo="http://query.yahooapis.com/v1/schema/table.xsd">
     <diagnostics>
         <publiclyCallable>true</publiclyCallable>
-        <url execution-time="2" proxy="DEFAULT"><![CDATA[http://www.datatables.org/yelp/yelp.review.search.xml]]></url>
-        <warning>Required key 'num_biz_requested' should not contain a default, ignoring the value of default</warning>
-        <warning>Required key 'num_biz_requested' should not contain a default, ignoring the value of default</warning>
-        <warning>Required key 'num_biz_requested' should not contain a default, ignoring the value of default</warning>
         <user-time>24</user-time>
         <service-time>2</service-time>
         <build-version>9597</build-version>
