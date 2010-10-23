@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<query xmlns:yahoo="http://query.yahooapis.com/v1/schema/table.xsd"
-    yahoo:created="2010-10-23T04:37:19Z" yahoo:lang="en-US">
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+    yahoo:count="1" yahoo:created="2010-10-23T04:37:19Z" yahoo:lang="en-US">
     <diagnostics>
         <publiclyCallable>true</publiclyCallable>
         <url execution-time="4" proxy="DEFAULT"><![CDATA[http://www.datatables.org/brooklyn/brooklyn.collection.search.xml]]></url>
@@ -9,7 +9,7 @@
         <build-version>9597</build-version>
     </diagnostics> 
     <results>
-        <table name="cont" security="ANY" src="http://github.com/gh269/cornellDataTable/raw/master/test.xml">
+        <table name="brooklyn.collection.search" security="ANY" src="http://github.com/gh269/cornellDataTable/raw/master/test.xml">
             <meta>
                 <author>Daniel Pett</author>
                 <description>Search Brooklyn Museum's collections database</description>
@@ -18,7 +18,28 @@
             </meta>
             <request>
                 <select usesRemoteLimit="true">
-                    <key name="incident" type="xs:string"/>
+		
+                    <key name="item_type" type="xs:string"/>
+                    <key name="keyword" type="xs:string"/>
+                    <key name="date_range_begin" type="xs:string"/>
+                    <key name="date_range_end" type="xs:string"/>
+                    <key name="name" type="xs:string"/>
+                    <key name="collection_id" type="xs:string"/>
+                    <key name="rights_type" type="xs:string"/>
+                    <key name="geo_location_code" type="xs:string"/>
+                    <key name="start_index" type="xs:string"/>
+                    <key name="results_limit" type="xs:string"/>
+                    <key name="require_image" type="xs:string"/>
+                    <key name="sort_field" type="xs:string"/>
+                    <key name="sort_direction" type="xs:string"/>
+                    <key name="include_image_caption" type="xs:string"/>
+                    <key name="include_item_fields" type="xs:string"/>
+                    <key name="thumb_shape" type="xs:string"/>
+                    <key name="max_thumb_size" type="xs:string"/>
+                    <key name="max_image_size" type="xs:string"/>
+                    <key name="include_html_style_block" type="xs:string"/>
+                    <key name="api_key" private="true" required="true" type="xs:string"/>
+		 <key name="incident" type="xs:string"/>
                 </select>
             </request>
         </table>
