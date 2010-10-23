@@ -1,0 +1,224 @@
+<!DOCTYPE html "-//W3C//DTD XHTML 1.0 Strict//EN" 
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Cornell University Crime Blotter</title>
+    <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=abcdefg&sensor=true_or_false"
+            type="text/javascript"></script>
+    <script type="text/javascript" src="http://yui.yahooapis.com/3.0.0/build/yui/yui-min.js"></script> 
+    <script type="text/javascript" src="http://github.com/davglass/yui-yql/raw/master/yql-min.js"></script>
+    <script type="text/javascript">
+ var map;
+    function initialize(position) {
+      if (GBrowserIsCompatible()) {
+	map = new google.maps.Map2(document.getElementById("map1"));
+        map.setCenter(new google.maps.LatLng(42.4479087, -76.4779977), 13);
+        map.setUIToDefault();
+        
+        YUI().use('yql', function(Y) {
+            //Or the callback approach
+	       
+            new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select * from cont', function(r) {
+		
+		var c = r.query.results.crime;
+		//console.log(r);
+		//map.addOverlay(newMarker(c));
+		
+               for (i=0; i<c.length; i++) {
+	       //console.log(r);
+	      // alert("hi");
+                  map.addOverlay(newMarker(c[i]));
+               }
+	       
+            });
+        });
+        
+      }
+    }
+            function newMarker(crime) {
+           var latlng = new GLatLng(crime.latitude, crime.longitude);
+           var marker = new GMarker(latlng);
+           GEvent.addListener(marker,"click", function() {
+             var myHtml = crime.narrative + "<br /> " + crime.incident;
+             map.openInfoWindowHtml(latlng, myHtml);
+           });
+           return marker;
+        }
+       function upmap(chkbox){
+	if(chkbox.checked){
+		if(chkbox.name == "h"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%h\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+		
+		else if(chkbox.name == "b"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%b\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+		
+		else if(chkbox.name == "f"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%f\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+		
+		else if(chkbox.name == "t"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%t\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+
+		else if(chkbox.name == "d"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%d\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+		else if(chkbox.name == "a"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%a\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+		else if(chkbox.name == "o"){
+			 YUI().use('yql', function(Y) {
+			 new Y.yql('use "http://github.com/gh269/cornellDataTable/raw/master/controller.xml" AS cont; select *  from cont where crimetype like \'%o\' ', function(r) {
+				var c = r.query.results.crime;
+				for (i=0; i<c.length; i++) {
+					map.addOverlay(newMarker(c[i]));
+				}
+				
+			})
+			}); 
+		}
+	}
+   }
+    function select(a) {
+    	var check = document.getElementById("controls");
+    	for (i=0; i<check.elements.length; i++) {
+			if(a == 0){
+          	  check.elements[i].checked = a;
+			map.clearOverlays();
+		}if(a == 1){
+          	  check.elements[i].checked = a;
+			initialize();
+		}
+    	}
+	}
+
+
+
+    
+    </script>
+<style type="text/css">
+
+    #map1{
+ 	width: 500px; 
+	height: 300px;
+	}
+
+    #controls {
+      margin: 0;
+      list-style: none;
+    }
+    #controls li {
+      display: inline;
+      margin-right: 10px;
+      font-family: Sans-Serif;
+      font-size: 10pt;
+    }
+    </style>
+  </head>
+
+<body>
+<h1>
+Cornell University Crime Blotter
+</h1>  
+   
+  <body onload="select(1)">
+    <div id="map1"></div>
+    
+<form id= "controls">
+      <li>
+        <label>Harrassment</label>
+
+        <input type="checkbox" name="h" onclick="upmap(this)">
+
+      </li>
+
+      <li>
+        <label>Burglary</label>
+        <input type="checkbox" name="b" onclick="upmap(this)">
+      </li>
+      <li>
+        <label>Fraud</label>
+
+        <input type="checkbox" name="f" onclick="upmap(this)">
+      </li>
+      <li>
+      <label>Trespass</label>
+
+        <input type="checkbox" name="t" onclick="upmap(this)">
+      </li>
+      <li>
+
+        <label>Drugs</label>
+
+        <input type="checkbox" name="d" onclick="upmap(this)">
+      </li>
+      <li>
+        <label>Alcohol</label>
+
+        <input type="checkbox" name="a" onclick="upmap(this)">
+      </li>
+
+      <li>
+        <label>Other</label>
+
+        <input type="checkbox" name="o"onclick="upmap(this)">
+      </li>
+    </form>
+
+
+<a href="javascript:select(1)">Check all</a> |
+<a href="javascript:select(0)">Uncheck all</a>
+
+  </body>
+</html>
