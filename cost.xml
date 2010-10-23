@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <query xmlns:yahoo="http://query.yahooapis.com/v1/schema/table.xsd"
-    yahoo:count="1" yahoo:created="2010-10-23T04:37:19Z" yahoo:lang="en-US">
+    yahoo:created="2010-10-23T04:37:19Z" yahoo:lang="en-US">
     <diagnostics>
         <publiclyCallable>true</publiclyCallable>
         <url execution-time="4" proxy="DEFAULT"><![CDATA[http://www.datatables.org/brooklyn/brooklyn.collection.search.xml]]></url>
