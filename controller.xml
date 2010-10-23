@@ -8,7 +8,7 @@
   </meta>
 
   <bindings>
-    <select itemPath="root.crimes.crime" produces="XML">
+    <select itemPath="root.crimes" produces="XML">
       <urls>
         <url>http://github.com/gh269/cornellDataTable/raw/master/test.xml</url>
       </urls>
